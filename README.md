@@ -1,7 +1,7 @@
 **Connecting All Your Sources to GPT for Analytics** 
 
+[![Connecting All Your Sources to GPT for Analytics](https://static.wixstatic.com/media/9f8489_ee7b779073d143e5a9d4a3e4b5fd26b5~mv2.png)](https://video.wixstatic.com/video/9f8489_1ef4ea8d2ad34257b3f91cfdcd2f06ae/1080p/mp4/file.mp4)
 
-https://video.wixstatic.com/video/9f8489_1ef4ea8d2ad34257b3f91cfdcd2f06ae/1080p/mp4/file.mp4 
 
 In today's fast-paced digital landscape, data is the backbone of decision-making. But with information scattered across multiple platforms—like databases, CRMs, marketing tools, and cloud storage—it can be a challenge to extract meaningful insights. What if you could connect all your data sources to a single AI-powered analytics platform and get actionable insights in seconds?  
 
