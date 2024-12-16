@@ -1,5 +1,5 @@
 
-<h1 class="font_3"><a href="https://www.analytics-model.com/"><span class="color_11">TConnecting All Your Sources to GPT for Analytics</span></a></h1>
+<h1 class="font_3"><a href="https://www.analytics-model.com/"><span class="color_11">Connecting All Your Sources to GPT for Analytics</span></a></h1>
 <p>&nbsp;</p>
 
 
