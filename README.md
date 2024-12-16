@@ -2,18 +2,11 @@
 
 [![Connecting All Your Sources to GPT for Analytics](https://static.wixstatic.com/media/9f8489_ee7b779073d143e5a9d4a3e4b5fd26b5~mv2.png)](https://video.wixstatic.com/video/9f8489_1ef4ea8d2ad34257b3f91cfdcd2f06ae/1080p/mp4/file.mp4)
 
-
-In today's fast-paced digital landscape, data is the backbone of decision-making. But with information scattered across multiple platforms—like databases, CRMs, marketing tools, and cloud storage—it can be a challenge to extract meaningful insights. What if you could connect all your data sources to a single AI-powered analytics platform and get actionable insights in seconds?  
-
-This is exactly what GPT for Analytics offers. By integrating all your data sources with GPT, you gain the ability to analyze data effortlessly, interact through natural language queries, and make smarter decisions faster.  
-
-Here’s how connecting your data sources to GPT-powered analytics transforms your approach to data.  
-
----
-
 ### **The Power of Connecting Data Sources to GPT for Analytics**  
 
 GPT-powered analytics tools bridge the gap between your scattered data sources and meaningful insights. By centralizing your data, these tools provide unparalleled benefits:  
+
+[![Connecting All Your Sources ](https://static.wixstatic.com/media/9f8489_33fdfb10ded540758a9e611adae18e73~mv2.png)]
 
 1. **Unified Data Across All Sources**  
    Imagine bringing together sales data from Salesforce, customer feedback from Zendesk, marketing metrics from Google Analytics, and financial records from QuickBooks—all in one platform. GPT analytics tools unify your data, providing a comprehensive view of your business.  
