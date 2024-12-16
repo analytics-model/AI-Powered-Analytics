@@ -3,7 +3,8 @@
 <p>&nbsp;</p>
 
 
-[![Connecting All Your Sources to GPT for Analytics](https://static.wixstatic.com/media/9f8489_ee7b779073d143e5a9d4a3e4b5fd26b5~mv2.png)](https://video.wixstatic.com/video/9f8489_1ef4ea8d2ad34257b3f91cfdcd2f06ae/1080p/mp4/file.mp4)
+[![Connecting All Your Sources to GPT for Analytics](https://static.wixstatic.com/media/9f8489_ee7b779073d143e5a9d4a3e4b5fd26b5~mv2.png)](https://video.wixstatic.com/video/9f8489_1ef4ea8d2ad34257b3f91cfdcd2f06ae/1080p/mp4/file.mp4?autoplay=1&muted=1&loop=1)
+
 
 ### **The Power of Connecting Data Sources to GPT for Analytics**  
 
