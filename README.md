@@ -33,7 +33,9 @@ GPT-powered analytics tools bridge the gap between your scattered data sources a
 ---
 
 ### **How to Connect Your Data Sources to GPT for Analytics**  
-![Connecting All Your Sources ](https://video.wixstatic.com/video/9f8489_026af89fcd50400790112e63b60adb08/1080p/mp4/file.mp4)
+
+
+[![Connecting All Your Sources to GPT for Analytics](https://static.wixstatic.com/media/9f8489_71869c2aa358468da47ffc3defea681a~mv2.jpg)](https://video.wixstatic.com/video/9f8489_026af89fcd50400790112e63b60adb08/1080p/mp4/file.mp4)
 
 Setting up GPT-powered analytics to connect all your data sources is a straightforward process.  
 
