@@ -1,4 +1,7 @@
-**Connecting All Your Sources to GPT for Analytics** 
+
+<h1 class="font_3"><a href="https://www.analytics-model.com/"><span class="color_11">TConnecting All Your Sources to GPT for Analytics</span></a></h1>
+<p>&nbsp;</p>
+
 
 [![Connecting All Your Sources to GPT for Analytics](https://static.wixstatic.com/media/9f8489_ee7b779073d143e5a9d4a3e4b5fd26b5~mv2.png)](https://video.wixstatic.com/video/9f8489_1ef4ea8d2ad34257b3f91cfdcd2f06ae/1080p/mp4/file.mp4)
 
@@ -14,6 +17,8 @@ GPT-powered analytics tools bridge the gap between your scattered data sources a
 2. **Ask Questions, Get Answers Instantly**  
    Forget complicated SQL or relying on analysts for reports. GPT allows you to ask natural language questions like, *“What were the top-performing marketing campaigns last quarter?”* or *“How has customer churn changed over the past year?”* and get immediate, accurate answers.  
 
+[![Connecting All Your Sources ](https://static.wixstatic.com/media/9f8489_9bef91b703354613be229f8be6587a70~mv2.png)]
+
 3. **Real-Time Insights for Better Decision-Making**  
    With live data connections, you can track KPIs, identify trends, and receive anomaly alerts in real time. Whether it’s inventory levels, sales performance, or user engagement metrics, GPT ensures you’re always a step ahead.  
 
@@ -22,6 +27,8 @@ GPT-powered analytics tools bridge the gap between your scattered data sources a
 
 5. **Customized Visualizations and Reports**  
    GPT-powered analytics tools can generate tailored dashboards and visualizations, helping you focus on the metrics that matter most.  
+
+[![Connecting All Your Sources ](https://static.wixstatic.com/media/9f8489_5404bfa758484ff3a40d54d742dd32af~mv2.png)]
 
 ---
 
