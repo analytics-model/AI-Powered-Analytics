@@ -2,13 +2,16 @@
 <h1 class="font_3"><a href="https://www.analytics-model.com/"><span class="color_11">Connecting All Your Sources to GPT for Analytics</span></a></h1>
 <p>&nbsp;</p>
 
+![GPT-powered analytics tools](https://static.wixstatic.com/media/9f8489_ed1b034ea82d47de90de8db9c78cbe0b~mv2.jpg)
+
 
 [![Connecting All Your Sources to GPT for Analytics](https://static.wixstatic.com/media/9f8489_ee7b779073d143e5a9d4a3e4b5fd26b5~mv2.png)](https://video.wixstatic.com/video/9f8489_1ef4ea8d2ad34257b3f91cfdcd2f06ae/1080p/mp4/file.mp4?autoplay=1&muted=1&loop=1)
 
 
+
 ### **The Power of Connecting Data Sources to GPT for Analytics**  
 
-GPT-powered analytics tools bridge the gap between your scattered data sources and meaningful insights. By centralizing your data, these tools provide unparalleled benefits:  
+ bridge the gap between your scattered data sources and meaningful insights. By centralizing your data, these tools provide unparalleled benefits:  
 
 ![Connecting All Your Sources ](https://static.wixstatic.com/media/9f8489_33fdfb10ded540758a9e611adae18e73~mv2.png)
 
